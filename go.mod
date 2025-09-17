@@ -1,0 +1,1 @@
+module clean-archi-analytics
